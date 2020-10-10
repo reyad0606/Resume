@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(25, 26, 25);
+  }
+
+  h1 {
+    color: black;
+    font-size: 320%;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(148, 213, 238);
+    padding-left: 200px;
+  }
+
+  p {
+    color: white;
+    padding-left: 200px;
+  }
+
+  ul.a {
+    list-style-type: square;
+    color: white;
+    padding-left: 250px;
+}
+
+ol.b {
+    list-style-type: upper-alpha;
+    color: white;
+    padding-left: 250px;
+}
+
+  h2{
+      color: white;
+      text-decoration:underline;
+      padding-left: 200px;
+  }
+
+  table, th, td {
+      border: 2px white groove;
+      border-collapse: collapse;
+      margin-left: 230px;
+      text-align: left;
+      color: white;
+  }
+
+  th {
+      color: rgb(16, 241, 83);
+      font-weight: bold;
+  }
+  
+  img {
+    border-radius: 8px;
+    display: block;
+    padding-left: 700px;
+
+  }
+
+a {
+    color: red;
+}
